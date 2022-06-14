@@ -68,8 +68,8 @@ body {
     background-color: white;
     color: grey;
     display: block;
-    min-height: 370px;
-    min-width: 200px;
+    /*min-height: 370px;*/
+    /*min-width: 200px;*/
 }
 
 #pic {
