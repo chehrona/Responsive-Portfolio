@@ -52,10 +52,10 @@ body {
 }
 #profile {
     height: 220px;
-    width: 220px;
+    width: 230px;
     padding-bottom: 10px;
     padding-top: 10px;
-    padding-right: 10px;
+    padding-right: 30px;
     display: inline;
     float: left;
 }
