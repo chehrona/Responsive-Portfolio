@@ -53,6 +53,7 @@ body {
 #profile {
     max-height: 200px;
     max-width: 200px;
+    padding-right: 30px;
     display: inline;
     float: left;
 }
