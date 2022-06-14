@@ -53,9 +53,6 @@ body {
 #profile {
     height: 200px;
     width: 200px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-right: 30px;
     display: inline;
     float: left;
 }
@@ -74,6 +71,9 @@ body {
 
 #pic {
     display: inline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 30px;
 }
 p {
     margin: 0px;
