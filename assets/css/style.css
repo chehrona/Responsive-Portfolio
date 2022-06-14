@@ -237,7 +237,7 @@ textarea {
 .active {
     font-size: 12px;
     display: flex;
-    border-bottom: lightgrey;
+    border-bottom: 1px solid lightgrey;
     background-color: white;
     width: 100%;
     padding-top: 3%;
