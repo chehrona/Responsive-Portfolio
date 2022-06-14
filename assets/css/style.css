@@ -51,8 +51,8 @@ body {
     font-size: 32px;
 }
 #profile {
-    /*height: 200px;*/
-    /*width: 200px;*/
+    height: 200px;
+    width: 200px;
     padding-bottom: 10px;
     padding-top: 10px;
     padding-right: 30px;
