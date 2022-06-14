@@ -51,11 +51,10 @@ body {
     font-size: 32px;
 }
 #profile {
-    height: 220px;
-    width: 230px;
-    padding-bottom: 10px;
+    height: 190px;
+    width: 190px;
     padding-top: 10px;
-    padding-right: 30px;
+    padding-right: 10px;
     display: inline;
     float: left;
 }
